@@ -1,4 +1,7 @@
---- layout: page description: "一生一世一双人， 半睡半醒半浮生！" --- {% for post in paginator.posts %}
+--- layout: page 
+description: "一生一世一双人， 半睡半醒半浮生！" 
+--- 
+{% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
