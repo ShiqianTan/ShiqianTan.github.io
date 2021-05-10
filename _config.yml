@@ -11,8 +11,8 @@ github_repo: "https://github.com/ShiqianTan/ShiqianTan.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/pexels-basketball.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Never play chaotically with scientific things!"
+sidebar-avatar: /img/about-SQ-gentle.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
